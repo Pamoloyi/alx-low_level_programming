@@ -1,1 +1,1 @@
-readme for 0x00-hello-world directory
+script that compiles a C file but does not link.
